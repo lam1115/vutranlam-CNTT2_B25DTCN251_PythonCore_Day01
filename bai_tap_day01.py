@@ -1,27 +1,4 @@
 # ==========================
-# DỮ LIỆU ĐẦU VÀO (RAW DATA)
-# ==========================
-
-raw_cart = [
-    {
-        "id": "SP1",
-        "ten": " Áo sơ mi nam ",
-        "gia": 150000,
-        "sl": 2,
-        "danh_muc": "Thời trang",
-    },
-    {"id": "SP2", "ten": "Quần tây ", "gia": 250000, "sl": 1, "danh_muc": "Thời trang"},
-    {
-        "id": "SP3",
-        "ten": " Giày thể thao ",
-        "gia": 450000,
-        "sl": 1,
-        "danh_muc": "Giày dép",
-    },
-    {"id": "SP4", "ten": "Tất cổ ngắn ", "gia": 30000, "sl": 5, "danh_muc": "Phụ kiện"},
-]
-
-# ==========================
 # BÀI 1
 # ==========================
 
